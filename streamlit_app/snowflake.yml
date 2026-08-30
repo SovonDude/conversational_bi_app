@@ -1,0 +1,22 @@
+# created-by: streamlit-in-workspaces; skill-version=1.0.0
+definition_version: 2
+entities:
+  streamlit_app:
+    type: streamlit
+    identifier:
+      database: CONVERSATIONAL_BI_ASSISTANT
+      schema: LOGISTICS_DATA
+      name: LOGISTICS_BI_APP
+    title: logistics-bi-app
+    query_warehouse: COMPUTE_WH
+    compute_pool: SYSTEM_COMPUTE_POOL_CPU
+    run_mode: SpcsOnly
+    execute_as: OWNER
+    main_file: streamlit_app.py
+    artifacts:
+      - pyproject.toml
+      - streamlit_app.py
+      - .streamlit/config.toml
+      - app_pages/dashboard.py
+      - app_pages/ai_agent.py
+      - app_pages/dashboard_builder.py
