@@ -1,0 +1,182 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Length 5423 >>
+stream
+0.255 0.549 0.941 rg 0.0 742.0 612.0 50.0 re f
+1.00 1.00 1.00 rg BT /F2 16 Tf 40.0 762.0 Td (BI Assistant Data Analysis) Tj ET
+0.85 0.90 1.00 rg BT /F1 8 Tf 40.0 748.0 Td (Generated: August 30, 2026 09:50  |  4 messages  |  2 charts) Tj ET
+0.255 0.549 0.941 rg 40.0 726.0 532.0 1.0 re f
+0.25 0.25 0.25 rg BT /F2 10 Tf 40.0 719.0 Td (You) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 703.0 Td (Which order priorities generate the most revenue?) Tj ET
+0.255 0.549 0.941 rg 40.0 678.0 532.0 1.0 re f
+0.25 0.55 0.94 rg BT /F2 10 Tf 40.0 671.0 Td (BI Assistant) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 655.0 Td (Across the full order history, revenue is distributed very evenly across the five order priorities ? each generates roughly) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 643.0 Td ($45 billion on ~300,000 orders, so no single priority dominates.) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 631.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 619.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 607.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 595.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 583.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 571.0 Td (**5-LOW** ranks highest at $45.50B \(300,589 orders\), narrowly ahead of **2-HIGH** \($45.48B\) and **1-URGENT** \($45.42B\).) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 559.0 Td (**3-MEDIUM** trails at $45.15B. The gap between the top and bottom priority is only about $348M ? under 1% ? indicating) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 547.0 Td (revenue is essentially uniform across priorities.) Tj ET
+0.255 0.549 0.941 rg 40.0 517.0 532.0 14.0 re f
+1.00 1.00 1.00 rg BT /F2 8 Tf 45.0 520.0 Td (Which order priorities generate the most revenue?) Tj ET
+0.82 0.82 0.82 RG 0.6 w 40.0 381.0 532.0 150.0 re S
+0.255 0.549 0.941 rg 130.0 497.0 387.0 14.0 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 501.0 Td (5-LOW) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 520.0 501.0 Td ($45.5B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 497.0 m 517.0 497.0 l S
+0.910 0.365 0.459 rg 130.0 472.2 386.8 14.0 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 476.2 Td (2-HIGH) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 519.8 476.2 Td ($45.5B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 472.2 m 517.0 472.2 l S
+0.965 0.651 0.137 rg 130.0 447.4 386.3 14.0 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 451.4 Td (1-URGENT) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 519.3 451.4 Td ($45.4B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 447.4 m 517.0 447.4 l S
+0.298 0.686 0.314 rg 130.0 422.6 385.1 14.0 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 426.6 Td (4-NOT SPECIFIED) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 518.1 426.6 Td ($45.3B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 422.6 m 517.0 422.6 l S
+0.612 0.153 0.690 rg 130.0 397.8 384.0 14.0 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 401.8 Td (3-MEDIUM) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 517.0 401.8 Td ($45.2B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 397.8 m 517.0 397.8 l S
+0.255 0.549 0.941 rg 40.0 364.0 532.0 1.0 re f
+0.25 0.25 0.25 rg BT /F2 10 Tf 40.0 357.0 Td (You) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 341.0 Td (How does revenue by priority break down across regions or market segments?) Tj ET
+0.255 0.549 0.941 rg 40.0 316.0 532.0 1.0 re f
+0.25 0.55 0.94 rg BT /F2 10 Tf 40.0 309.0 Td (BI Assistant) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 293.0 Td (I'll analyze revenue breakdown by order priority across regions and market segments.) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 281.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 269.0 Td (I'll query revenue by priority broken down by both region and market segment.) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 257.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 245.0 Td (Both breakdowns are ready. Let me visualize them.) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 233.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 221.0 Td (I'll create grouped bar charts for both breakdowns.) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 209.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 197.0 Td (Here's how revenue breaks down by order priority across both market segments and regions \(spanning the full order history in) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 185.0 Td (the dataset\).) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 173.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 161.0 Td (**Key takeaway:** Revenue is remarkably evenly distributed across all five order priorities within every segment and region.) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 149.0 Td (No priority dominates ? each captures roughly 19?21% of its group's revenue, indicating orders are placed across priority) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 137.0 Td (levels fairly uniformly rather than concentrated in urgent or low-priority tiers.) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 125.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 113.0 Td (**By Market Segment**) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 101.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 89.0 Td (BUILDING is the top-earning segment \(~$45.9B total\), followed closely by FURNITURE, HOUSEHOLD, MACHINERY, and AUTOMOBILE.) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 77.0 Td (Within each segment the leading priority varies slightly \(e.g., BUILDING peaks on "2-HIGH", AUTOMOBILE on "5-LOW"\), but the) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 65.0 Td (spread is narrow.) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 53.0 Td () Tj ET
+endstream
+endobj
+2 0 obj
+<< /Length 4351 >>
+stream
+0.255 0.549 0.941 rg 0.0 790.0 612.0 2.0 re f
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 752.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 740.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 728.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 716.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 704.0 Td (**By Region**) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 692.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 680.0 Td (EUROPE and ASIA lead regionally \(~$45.8B and ~$45.6B\), with AMERICA, AFRICA, and MIDDLE EAST trailing modestly. The MIDDLE) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 668.0 Td (EAST shows the widest internal gap ? "1-URGENT" leads while "4-NOT SPECIFIED" lags by ~$190M.) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 656.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 644.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 632.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 620.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 608.0 Td () Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 596.0 Td (**Follow-up questions you might find insightful:**) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 584.0 Td (- How does average order value differ by priority within each segment or region?) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 572.0 Td (- Do higher-priority orders actually ship faster \(delivery time by priority\)?) Tj ET
+0.20 0.20 0.20 rg BT /F1 8.5 Tf 45.0 560.0 Td (- Which nations within the top regions \(Europe/Asia\) drive the most revenue?) Tj ET
+0.255 0.549 0.941 rg 40.0 530.0 532.0 14.0 re f
+1.00 1.00 1.00 rg BT /F2 8 Tf 45.0 533.0 Td (How does revenue by priority break down across regions or ma) Tj ET
+0.82 0.82 0.82 RG 0.6 w 40.0 394.0 532.0 150.0 re S
+0.255 0.549 0.941 rg 130.0 515.7 384.3 8.3 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 516.8 Td (AFRICA) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 517.3 516.8 Td ($9.1B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 515.7 m 517.0 515.7 l S
+0.910 0.365 0.459 rg 130.0 505.3 383.0 8.3 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 506.5 Td (AFRICA) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 516.0 506.5 Td ($9.0B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 505.3 m 517.0 505.3 l S
+0.965 0.651 0.137 rg 130.0 495.0 382.9 8.3 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 496.2 Td (AFRICA) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 515.9 496.2 Td ($9.0B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 495.0 m 517.0 495.0 l S
+0.298 0.686 0.314 rg 130.0 484.7 382.1 8.3 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 485.8 Td (AFRICA) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 515.1 485.8 Td ($9.0B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 484.7 m 517.0 484.7 l S
+0.612 0.153 0.690 rg 130.0 474.3 381.9 8.3 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 475.5 Td (AFRICA) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 514.9 475.5 Td ($9.0B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 474.3 m 517.0 474.3 l S
+0.000 0.737 0.831 rg 130.0 464.0 386.2 8.3 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 465.2 Td (AMERICA) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 519.2 465.2 Td ($9.1B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 464.0 m 517.0 464.0 l S
+1.000 0.341 0.133 rg 130.0 453.7 385.0 8.3 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 454.8 Td (AMERICA) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 518.0 454.8 Td ($9.1B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 453.7 m 517.0 453.7 l S
+0.255 0.549 0.941 rg 130.0 443.3 384.0 8.3 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 444.5 Td (AMERICA) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 517.0 444.5 Td ($9.1B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 443.3 m 517.0 443.3 l S
+0.910 0.365 0.459 rg 130.0 433.0 382.5 8.3 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 434.2 Td (AMERICA) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 515.5 434.2 Td ($9.0B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 433.0 m 517.0 433.0 l S
+0.965 0.651 0.137 rg 130.0 422.7 379.7 8.3 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 423.8 Td (AMERICA) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 512.7 423.8 Td ($9.0B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 422.7 m 517.0 422.7 l S
+0.298 0.686 0.314 rg 130.0 412.3 387.0 8.3 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 413.5 Td (ASIA) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 520.0 413.5 Td ($9.1B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 412.3 m 517.0 412.3 l S
+0.612 0.153 0.690 rg 130.0 402.0 386.6 8.3 re f
+0.20 0.20 0.20 rg BT /F1 6 Tf 42.0 403.2 Td (ASIA) Tj ET
+0.20 0.20 0.20 rg BT /F2 6 Tf 519.6 403.2 Td ($9.1B) Tj ET
+0.85 0.85 0.85 RG 0.2 w 130.0 402.0 m 517.0 402.0 l S
+endstream
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 7 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 1 0 R >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 7 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 2 0 R >>
+endobj
+7 0 obj
+<< /Type /Pages /Kids [5 0 R 6 0 R] /Count 2 >>
+endobj
+8 0 obj
+<< /Type /Catalog /Pages 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 g 
+0000005490 00000 g 
+0000009893 00000 g 
+0000009963 00000 g 
+0000010038 00000 g 
+0000010174 00000 g 
+0000010310 00000 g 
+0000010373 00000 g 
+trailer
+<< /Size 9 /Root 8 0 R >>
+startxref
+10422
+%%EOF
